@@ -1,1 +1,1 @@
-{"version":3,"file":"tuple.js","sourceRoot":"","sources":["../src/tuple.ts"],"names":[],"mappings":""}
+{"version":3,"file":"tuple.js","sourceRoot":"","sources":["../src/tuple.ts"],"names":[],"mappings":";AAAA,SAAS;AAIT,MAAM,IAAI,GAA8B,CAAC,OAAO,EAAE,EAAE,EAAE,IAAI,CAAC,CAAC;AAE5D,IAAI,CAAC,CAAC,CAAC,GAAG,MAAM,CAAC;AACjB,sDAAsD;AACtD,IAAI,CAAC,IAAI,CAAC,MAAM,CAAC,CAAC,CAAC,cAAc;AACjC,MAAM,KAAK,GAAuB;IAChC,CAAC,CAAC,EAAE,iBAAiB,CAAC;IACtB,CAAC,CAAC,EAAE,gBAAgB,CAAC;IACrB,CAAC,CAAC,EAAE,gBAAgB,CAAC;CACtB,CAAC"}
